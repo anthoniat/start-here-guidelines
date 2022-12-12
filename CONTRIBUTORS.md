@@ -131,3 +131,5 @@
 
 -[@Kindevral](https://github.com/Kindevral)
 -[@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
+
+-[@anthoniat](https://github.com/anthoniat)
